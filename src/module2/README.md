@@ -21,5 +21,5 @@ Resulted no change in root node_modules. React version installed is still 17.0.2
 },
 ```
 6. Throws error `Conflicting peer dependency: react@16.8.0`
-[Upload Image]()
+<img width="1536" alt="Screenshot 2022-03-29 at 9 23 20 PM" src="https://user-images.githubusercontent.com/11366455/160742469-da18eafe-6a8a-4834-ae51-97e194269716.png">
 
