@@ -4,6 +4,10 @@
   "description": "",
   "main": "index.js",
   "type": "module",
+  "exports": {
+    "./computations/*": "./computations/*.js",
+    "./tracking/*": "./tracking/*.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
